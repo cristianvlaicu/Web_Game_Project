@@ -1,0 +1,23 @@
+{
+  "name": "web_game_project",
+  "version": "1.0.0",
+  "description": "simple guess number webgame",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianvlaicu/Web_Game_Project.git"
+  },
+  "author": "Cristian Vlaicu Solomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianvlaicu/Web_Game_Project/issues"
+  },
+  "homepage": "https://github.com/cristianvlaicu/Web_Game_Project#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  }
+}
